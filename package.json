@@ -1,0 +1,15 @@
+{
+  "name": "@yuliiakaras/most-repeated-letter",
+  "version": "1.0.0",
+  "description": "It`s a package that finds the most repeated letter in a text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuliiakaras/most-repeated-letter.git"
+  },
+  "author": "yuliiakaras",
+  "license": "ISC"
+}
