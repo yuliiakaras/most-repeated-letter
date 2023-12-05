@@ -1,11 +1,11 @@
 {
-  "name": "@yuliia/find-most-repeated-letter",
+  "name": "@julidino/find-most-repeated-letter",
   "version": "1.0.0",
   "description": "It's a package that finds the most repeated letter in a text.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "yuliia",
+  "author": "yuliia_karas",
   "license": "ISC"
 }
