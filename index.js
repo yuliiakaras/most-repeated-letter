@@ -1,6 +1,4 @@
-const fs = require('fs');
-function findMostRepeatedLetter(filePath) {
-    const text = fs.readFileSync(filePath, 'utf-8');
+function findMostRepeatedLetter(text) {
 
     const charCount = new Map();
 
